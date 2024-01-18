@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danyalabbas&show_icons=true&locale=en&layout=compact" alt="danyalabbas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danyalabbas&" alt="danyalabbas" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanyalAbbas&" alt="DanyalAbbas" /></p>
