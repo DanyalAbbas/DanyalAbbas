@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abasdaniel61@gmail.com**
 
-- ⚡ Fun fact **I almost died while playing tag**
+- ⚡ Fun fact **I almost died while playing tag **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
