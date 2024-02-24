@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Danyal Abbas</h1>
 <h3 align="center">An enthusiastic engineer specializing in machine learning.</h3>
 
-- 🔭 I’m currently working on **Linear Regression**
+- 🔭 I’m currently working on **ML Projects**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DanyalAbbas](https://github.com/DanyalAbbas)
 
