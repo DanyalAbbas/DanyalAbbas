@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DanyalAbbas](https://github.com/DanyalAbbas)
+- 👨‍💻 All of my projects are available on my [Portfolio](https://danyalabbas.github.io/)
 
 - 💬 Ask me about **Python, data scraping**
 
