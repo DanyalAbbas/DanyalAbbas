@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Danyal Abbas</h1>
+<h1 align="center" <a href="https://ibb.co/YX0nH4h"><img src="https://i.ibb.co/8bYv1n9/Cream-and-Blue-Abstract-Linked-In-Banner-1.png" alt="Cream-and-Blue-Abstract-Linked-In-Banner-1" border="0" width="800" height="200"  /></a> </h1>
+
 <h3 align="center">An enthusiastic engineer specializing in machine learning.</h3>
 
 - 🔭 I’m currently working on a project **"BrainF*ck"**
