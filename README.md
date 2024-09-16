@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Danyal Abbas</h1>
 <h3 align="center">An enthusiastic engineer specializing in machine learning.</h3>
 
-- 🔭 I’m currently working on **ML Projects**
+- 🔭 I’m currently working on a project **"BrainF*ck"**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Restful APIs and Neural Networking**
 
 - 👨‍💻 All of my projects are available on my [Portfolio](https://danyalabbas.github.io/)
 
