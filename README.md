@@ -3,7 +3,7 @@
 <h3 align="center">An enthusiastic engineer specializing in machine learning.</h3>
 
 
-- 🔭 I’m currently working on a project **"BrainF*ck"**
+- 🔭 I’m currently working on a project **"MindF*ck"**
 
 - 🌱 I’m currently learning **Restful APIs and Neural Networking**
 
