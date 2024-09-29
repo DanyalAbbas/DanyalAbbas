@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available on my [Portfolio](https://danyalabbas.github.io/)
 
-- 💬 Ask me about **Python, data scraping**
+- 💬 Ask me about **Python, Machine Learning**
 
 - 📫 How to reach me **abasdaniel61@gmail.com**
 
