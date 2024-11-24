@@ -7,7 +7,7 @@ class DanyalAbbas:
         self.age = 18
         self.location = "Karachi, Pakistan"
         self.university = "NED University - BSc. CSIT - 2024-28"
-        self.role = "Student | ML Engineer"
+        self.role = "Student | ML Engineer | Back-End Developer "
         self.passions = ["Coding", "Astronomy", "Machine Learning"]
  
     def About_Me(self) -> str:
