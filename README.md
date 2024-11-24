@@ -10,10 +10,10 @@ class DanyalAbbas:
         self.role = "Student | ML Engineer"
         self.passions = ["Coding", "Astronomy", "Machine Learning"]
  
-    def About_Me(self):
+    def About_Me(self) -> str:
         return "A Dumb ML Enthusiast"
 
-    def TechStack(self):
+    def TechStack(self) -> dict:
         return {
             "Languages": ["Python", "C", "SQL"],
             "Tools": ["Git", "VS Code", "Jupyter Notebook"],
@@ -23,14 +23,14 @@ class DanyalAbbas:
             "Learning" : ["Tensorflow", "AWS", "RESTful APIs", "Cloud Computing"] 
         }
 
-    def Languages_I_Speak(self):
+    def Languages_I_Speak(self) -> dict:
         return {
             "English": "Fluent",
             "Urdu": "Native",
             "Sindhi": "Native"
         }
 
-    def Contact_Me(self):
+    def Contact_Me(self) -> Dict:
         return {
             "Email": "abasdaniel61@gmail.com",
             "Portfolio": "https://danyalabbas.github.io/",
