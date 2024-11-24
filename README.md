@@ -6,7 +6,7 @@ class DanyalAbbas:
         self.name = "Danyal Abbas"
         self.age = 18
         self.location = "Karachi, Pakistan"
-        self.university = "NED University - BCIT - 2024-28"
+        self.university = "NED University - BSc. CSIT - 2024-28"
         self.role = "Student | ML Engineer"
         self.passions = ["Coding", "Astronomy", "Machine Learning"]
  
