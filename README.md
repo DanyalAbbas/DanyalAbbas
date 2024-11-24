@@ -30,7 +30,7 @@ class DanyalAbbas:
             "Sindhi": "Native"
         }
 
-    def Contact_Me(self) -> Dict:
+    def Contact_Me(self) -> dict:
         return {
             "Email": "abasdaniel61@gmail.com",
             "Portfolio": "https://danyalabbas.github.io/",
