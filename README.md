@@ -15,10 +15,10 @@ class DanyalAbbas:
 
     def TechStack(self) -> dict:
         return {
-            "Languages": ["Python", "C", "SQL"],
+            "Languages": ["Python", "C", "SQL", "C++"],
             "Tools": ["Git", "VS Code", "Jupyter Notebook"],
-            "Databases": ["MySQL"],
-            "Libraries/Frameworks": ["Pandas", "NumPy", "Matplotlib", "Flask", "Sci-kit Learn"]
+            "Databases": ["MySQL", "ChromaDB"],
+            "Libraries/Frameworks": ["Langchain","Pandas", "NumPy", "Matplotlib", "Flask", "Sci-kit Learn"]
             "Shell" : ["Gitbash"]
             "Learning" : ["Tensorflow", "AWS", "RESTful APIs", "Cloud Computing"] 
         }
