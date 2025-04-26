@@ -11,7 +11,7 @@ class DanyalAbbas:
         self.passions = ["Coding", "Astronomy", "Machine Learning"]
  
     def About_Me(self) -> str:
-        return "Loves Overfitting data"
+        return "I Love Overfitting data"
 
     def TechStack(self) -> dict:
         return {
