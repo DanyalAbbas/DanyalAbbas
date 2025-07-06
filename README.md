@@ -17,7 +17,7 @@ class DanyalAbbas:
         return {
             "Languages": ["Python", "C", "SQL", "C++"],
             "Tools": ["Git", "VS Code", "Jupyter Notebook"],
-            "Databases": ["MySQL", "ChromaDB"],
+            "Databases": ["MySQL", "ChromaDB", "Postgres"],
             "Libraries/Frameworks": ["Langchain","Pandas", "NumPy", "Matplotlib", "Flask", "Sci-kit Learn"]
             "Shell" : ["Gitbash"]
             "Learning" : ["Tensorflow", "AWS", "RESTful APIs", "Cloud Computing", "Apex"] 
