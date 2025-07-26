@@ -20,7 +20,7 @@ class DanyalAbbas:
             "Databases": ["MySQL", "ChromaDB", "Postgres"],
             "Libraries/Frameworks": ["Langchain","Pandas", "NumPy", "Matplotlib", "Flask", "Sci-kit Learn"]
             "Shell" : ["Gitbash"]
-            "Learning" : ["Tensorflow", "AWS", "RESTful APIs", "Cloud Computing", "Apex"] 
+            "Learning" : ["Tensorflow", "AWS", "Salesforce", "Cloud Computing", "Apex"] 
         }
 
     def Languages_I_Speak(self) -> dict:
