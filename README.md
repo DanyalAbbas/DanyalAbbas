@@ -33,7 +33,8 @@ class DanyalAbbas:
         return {
             "Email": "abasdaniel61@gmail.com",
             "Portfolio": "https://danyalabbas.github.io/",
-            "LinkedIn": "@DanyalAbbas"
+            "LinkedIn": "@DanyalAbbas",
+            "Kaggle": "danyalabbas1"
         }
 
 
