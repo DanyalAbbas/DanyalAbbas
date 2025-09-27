@@ -15,7 +15,7 @@ class DanyalAbbas:
 
     def TechStack(self) -> dict:
         return {
-            "Languages": ["Python", "C", "SQL", "C++"],
+            "Languages": ["Python", "Apex", "SQL", "C++"],
             "Tools": ["Git", "VS Code", "Jupyter Notebook"],
             "Databases": ["MySQL", "ChromaDB", "Postgres"],
             "Libraries/Frameworks": ["Langchain","Pandas", "NumPy", "Matplotlib", "Flask", "Sci-kit Learn"],
