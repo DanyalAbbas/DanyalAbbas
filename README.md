@@ -31,8 +31,8 @@ class DanyalAbbas:
 
     def Contact_Me(self) -> dict:
         return {
-            "Email": "abasdaniel61@gmail.com",
-            "Portfolio": "https://danyalabbas.github.io/",
+            "Email": "contact@danyalabbas.dev",
+            "Portfolio": "https://danyalabbas.dev",
             "LinkedIn": "@DanyalAbbas",
             "Kaggle": "danyalabbas1"
         }
