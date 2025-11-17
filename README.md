@@ -4,7 +4,7 @@
 class DanyalAbbas:
     def __init__(self):
         self.name = "Danyal Abbas"
-        self.age = 18
+        self.age = 19
         self.location = "Karachi, Pakistan"
         self.university = "NED University - BSc. CSIT - 2024-28"
         self.role = "Student | ML Engineer | Back-End Developer"
