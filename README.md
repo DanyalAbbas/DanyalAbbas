@@ -18,7 +18,7 @@ class DanyalAbbas:
             "Languages": ["Python", "Apex", "SQL", "C++"],
             "Tools": ["Git", "VS Code", "Jupyter Notebook"],
             "Databases": ["MySQL", "ChromaDB", "Postgres"],
-            "Libraries/Frameworks": ["Langchain", "Tensorflow", "FastAPI", "Flask", "Sci-kit Learn", "n8n"],
+            "Libraries/Frameworks": ["Langchain", "Tensorflow", "FastAPI", "Sci-kit Learn", "n8n"],
             "Learning" : ["LWC", "Salesforce", "Apex"] 
         }
 
