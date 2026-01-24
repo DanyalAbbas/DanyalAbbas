@@ -17,6 +17,7 @@ class DanyalAbbas:
         return {
             "Languages": ["Python", "Apex", "SQL", "C++"],
             "Tools": ["Git", "VS Code", "Jupyter Notebook"],
+            "Integrations": ["Salesforce", "Odoo", "Hubspot", "QuickBooks", "Stripe", "Meta"]
             "Databases": ["MySQL", "ChromaDB", "Postgres"],
             "Libraries/Frameworks": ["Langchain", "Tensorflow", "FastAPI", "Sci-kit Learn", "n8n"],
             "Learning" : ["LWC", "Salesforce", "Apex"] 
