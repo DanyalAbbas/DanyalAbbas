@@ -20,7 +20,7 @@ class DanyalAbbas:
             "Integrations": ["Salesforce", "Hubspot", "QuickBooks", "Stripe", "Finix"],
             "Databases": ["MySQL", "ChromaDB", "Postgres"],
             "Libraries/Frameworks": ["Langchain", "Tensorflow", "FastAPI", "Sci-kit Learn"],
-            "Learning" : ["LWC", "Salesforce", "Apex"] 
+            "Learning" : ["AWS", "Networking"] 
         }
 
     def Languages_I_Speak(self) -> dict:
