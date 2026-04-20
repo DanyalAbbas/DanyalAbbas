@@ -26,7 +26,8 @@ class DanyalAbbas:
     def Languages_I_Speak(self) -> dict:
         return {
             "English": "Fluent",
-            "Urdu": "Native"
+            "Urdu": "Native",
+            "Sindhi": "Native"
         }
 
     def Contact_Me(self) -> dict:
