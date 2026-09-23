@@ -4,10 +4,10 @@
 class DanyalAbbas:
     def __init__(self):
         self.name = "Danyal Abbas"
-        self.age = 19
         self.location = "Karachi, Pakistan"
-        self.university = "NED University - BSc. CSIT - 2024-28"
-        self.role = "Student | AI/ML Engineer | Back-End Developer"
+        self.experience = "4+"
+        self.university = "NED University - BSc. Computer Science & IT"
+        self.role = "CRM Expert | AI/ML Engineer | Backend Developer"
         self.passions = ["Coding", "Astronomy", "Machine Learning"]
  
     def About_Me(self) -> str:
