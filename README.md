@@ -16,10 +16,9 @@ class DanyalAbbas:
     def TechStack(self) -> dict:
         return {
             "Languages": ["Python", "Apex", "SQL", "C++"],
-            "Tools": ["Git", "VS Code", "Jupyter Notebook"],
-            "Integrations": ["Salesforce", "Hubspot", "QuickBooks", "Stripe", "Finix"],
+            "Integrations": ["Salesforce", "HubSpot", "QuickBooks", "Stripe", "Finix"],
             "Databases": ["MySQL", "ChromaDB", "Postgres"],
-            "Libraries/Frameworks": ["Langchain", "Tensorflow", "FastAPI", "Sci-kit Learn"],
+            "Libraries/Frameworks": ["LangChain", "TensorFlow", "FastAPI", "Scikit-learn"],
             "Learning" : ["AWS", "Vapi"] 
         }
 
