@@ -20,7 +20,7 @@ class DanyalAbbas:
             "Databases": ["MySQL", "ChromaDB", "Postgres"],
             "Libraries/Frameworks": ["LangChain", "TensorFlow", "FastAPI", "Scikit-learn"],
             "DevOps": ["AWS", "GCP", "Heroku"],
-            "Learning": ["Vapi", "Fine-tuning"] 
+            "Learning": ["Quantization", "Fine-tuning"] 
         }
 
     def Languages_I_Speak(self) -> dict:
